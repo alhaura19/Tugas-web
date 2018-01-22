@@ -1,0 +1,46 @@
+
+        html, body{
+          height: 100%;
+          width:100%;
+          margin: 0px;
+          padding: 0px;
+        }
+        
+        #wrapper {
+          width:100%;
+        }
+
+        #header {
+          /*height: 80px;
+          width: 1180px;*/
+          text-align: center;
+          padding: 5px;
+          background-color: #20B2AA;
+          color: white;
+        }
+
+        .menu{
+          height: 30px;
+          width: 700px;
+          text-align: center;
+          background-color: #87CEFA;
+          color: #F08080;
+        }
+
+        .menu:hover{
+        	background-color: yellow;
+        }
+
+        #content {
+          height: 480px;  
+        }
+
+        #footer {
+          height: 50px;
+          text-align: right;
+          padding: 5px; 
+          background-color: #20B2AA;
+          color: white;
+        }
+
+        
